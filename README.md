@@ -6,3 +6,5 @@ Main File contains all of the files for the app, including .cs, .png, and other 
 
 AI test was done using Chat and is in the Images folder
   Posted function kept was capturing the screen and displaying the image in the preview.
+
+Image folders contain all required evidence for both 7A/7B
