@@ -1,0 +1,32 @@
+XAML is description of UI
+
+Class is visual space for code
+
+Mainwindow.cs
+
+Mainwindow.xaml.cs
+
+Variables as containers
+	The story creates the variables
+
+	String variable holds text
+	Numbers go with integer
+	Click something (yes/no) bool
+	Precision is float
+
+Signature of the function is the input.
+---Define function by scope: who has access
+	Public or private
+
+public  void  VendingMachine(int Coin)
+			    (object Card)
+
+
+
+Capture-> Captures current screen and creates bitmap (image)
+Bitmap-> Stores the captured image
+Preview-> Displays the bitmap in the WPF
+Save-> Saves as a PNG file
+Cancel-> Stops save process
+Clear-> Removes preview
+Repeat-> Capture works, allow new capture
